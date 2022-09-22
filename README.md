@@ -39,7 +39,7 @@ If you installed git you can clone the code to your machine, or download a ZIP o
 git clone https://github.com/altontonn/React-To-Do/.git
 ```
 
-- Once the files are downloaded or cloned on your machine, open the "Math-Magician" folder in [Visual Studio Code(VSCode)](https://code.visualstudio.com/)
+- Once the files are downloaded or cloned on your machine, open the "React-To-Do" folder in [Visual Studio Code(VSCode)](https://code.visualstudio.com/)
 
 ## 🙎🏾‍♂️ Author
 
